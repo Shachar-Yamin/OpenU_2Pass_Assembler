@@ -1,5 +1,6 @@
 # OpenU_Assembler
-An assembler project that was made as a final project in "Systems Programming Laboratory in C" course.
+2-PASS Assembler, wrriten in C language based on mastering bit-field methods, memory management and division into many functions and files.
+
 
 Project file’s guid:
 
